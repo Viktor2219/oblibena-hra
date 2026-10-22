@@ -1,0 +1,6 @@
+
+Tipy pro hru Rust
+
+1. Sbírej dřevo a kámen.
+2. Postav si základnu.
+3. Dávej pozor na ostatní hráče.
