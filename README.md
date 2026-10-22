@@ -10,3 +10,11 @@ Moje oblíbená hra je Rust. Je to survival hra, ve které musím sbírat surovi
 ## Užitečné odkazy
 
 [Oficiální stránka hry Rust](https://rust.facepunch.com/)
+
+
+## Co mě na hře baví
+
+- Souboje proti ostatním hráčům
+- Sbírání surovin
+- Hraní s kamarády
+
