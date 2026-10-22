@@ -5,3 +5,8 @@ Moje oblíbená hra je Rust. Je to survival hra, ve které musím sbírat surovi
 ## Obrázek ze hry
 
 ![Moje základna ve hře Rust](images/rust-base.jpg)
+
+
+## Užitečné odkazy
+
+[Oficiální stránka hry Rust](https://rust.facepunch.com/)
