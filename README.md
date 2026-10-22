@@ -22,3 +22,7 @@ Moje oblíbená hra je Rust. Je to survival hra, ve které musím sbírat surovi
 ## Postavy ve hře Rust
 
 ![Postavy ve hře Rust](images/rust-character.jpg)
+
+
+[Rust na Steamu](https://store.steampowered.com/app/252490/Rust/)
+
