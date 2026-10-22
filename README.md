@@ -28,3 +28,7 @@ Moje oblíbená hra je **Rust**. Je to *survival hra*, ve které musím sbírat 
 
 [Rust na Steamu](https://store.steampowered.com/app/252490/Rust/)
 
+
+## Závěr
+
+Rust je pro mě zajímavá hra, protože kombinuje přežití, strategii a spolupráci s ostatními hráči. Na projektu jsem si procvičil práci s GitHubem, Markdownem, obrázky a odkazy.
